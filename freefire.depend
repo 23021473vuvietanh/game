@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1715751716 source:c:\users\vieta\downloads\freefire\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"definition.h"
+	"in.h"
+	"graphics.h"
+	"game.h"
+	<ctime>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1715793915 c:\users\vieta\downloads\freefire\definition.h
+
+1715223815 c:\users\vieta\downloads\freefire\in.h
+	<SDL.h>
+	"definition.h"
+	"structs.h"
+
+1715739832 c:\users\vieta\downloads\freefire\structs.h
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	"definition.h"
+
+1715783554 c:\users\vieta\downloads\freefire\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"definition.h"
+	"mix_ttf.h"
+
+1715863067 c:\users\vieta\downloads\freefire\game.h
+	<bits/stdc++.h>
+	<list>
+	<SDL.h>
+	<SDL_image.h>
+	"definition.h"
+	"graphics.h"
+	"structs.h"
+
+1715684245 c:\users\vieta\downloads\freefire\mix_ttf.h
+	<bits/stdc++.h>
+
+1715356326 c:\users\vieta\downloads\freefire\wait.h
+	"mix_ttf.h"
+	"graphics.h"
+
+1715447144 c:\users\vieta\downloads\freefire\boss.h
+	"game.h"
+	"graphics.h"
+	"definition.h"
+
